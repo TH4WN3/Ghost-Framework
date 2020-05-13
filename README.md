@@ -57,54 +57,6 @@ gives you the power and convenience of remote Android device administration.
 
 ***
 
-# Ghost Framework execution
-
-```
-To execute Ghost Framework you
-should execute the following command.
-```
-
-> ghost
-
-***
-
-# Why Ghost Framework
-
-* Simple and clear UX/UI.
-
-```
-Ghost Framework has a simple and clear UX/UI. 
-It is easy to understand and it will be easier 
-for you to master the Ghost Framework.
-```
-
-* Device password removal.
-
-```
-Ghost Framework can be used to remove the remote 
-Android device password if it was forgotten.
-```
-
-* Device shell access.
-
-```
-Ghost Framework can be used to access the remote Android 
-device shell without using OpenSSH or other protocols.
-``` 
-
-![shell](https://user-images.githubusercontent.com/54115104/80290031-7c8af580-874b-11ea-9d07-7dfb365284d5.png)
-
-***
-
-# Ghost Framework disclaimer
-
-```
-Usage of the Ghost Framework for attacking targets without prior mutual consent is illegal.
-It is the end user's responsibility to obey all applicable local, state, federal, and international laws.
-Developers assume no liability and are not responsible for any misuse or damage caused by this program.
-```
-  
-***
 
 # Ghost Framework license
 
